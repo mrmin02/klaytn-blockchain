@@ -28,6 +28,9 @@ public class KlaytnApplication {
 			
 			// 솔리디티 테스트
 //			a.test_pee_deploy2(); // 수수료 대납 스마트 컨트렉트 배포
+			
+			
+			
 //			a.test_pee2();  // 수수료 대납 스마트 컨트렉트에 데이터 전송 (solidity)
 			
 			
